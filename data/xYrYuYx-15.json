@@ -1,0 +1,9 @@
+{
+  "contest": "Covalent contest",
+  "handle": "xYrYuYx",
+  "address": "0xc105124ff3c4208a03696d779019eF3171633186",
+  "risk": "2",
+  "title": "Unable to redeem rest funds if deposited reward is not multiplier of allocatedTokensPerEpoch",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-10-covalent-findings/issues/15"
+}
