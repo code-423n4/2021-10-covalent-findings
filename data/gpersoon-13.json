@@ -1,0 +1,9 @@
+{
+  "contest": "Covalent contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "reset rewardsLocked to 0 when no longer used",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2021-10-covalent-findings/issues/13"
+}
