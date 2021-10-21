@@ -1,0 +1,9 @@
+{
+  "contest": "Covalent contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "1",
+  "title": "Epoch may rounded to zero in deposit depositRewardTokens and takeOutRewardTokens",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2021-10-covalent-findings/issues/66"
+}
