@@ -1,0 +1,9 @@
+{
+  "contest": "Covalent contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "Change unchanged storage variables to constants can save gas",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-10-covalent-findings/issues/54"
+}
