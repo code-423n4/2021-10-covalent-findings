@@ -1,0 +1,9 @@
+{
+  "contest": "Covalent contest",
+  "handle": "harleythedog",
+  "address": "0xeFBFe9c6a66d871175d2B0ab35bc00255Aa36298",
+  "risk": "G",
+  "title": "Public functions that should be external",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2021-10-covalent-findings/issues/86"
+}
