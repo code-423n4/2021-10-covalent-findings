@@ -1,0 +1,9 @@
+{
+  "contest": "Covalent contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412Fc011D74C26E3CA768aB6224643702313",
+  "risk": "G",
+  "title": "Declare variable `CQT` as constant",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2021-10-covalent-findings/issues/67"
+}
