@@ -1,0 +1,9 @@
+{
+  "contest": "Covalent contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "G",
+  "title": "unnecessary assert when dealing with CQT",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2021-10-covalent-findings/issues/63"
+}
