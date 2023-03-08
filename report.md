@@ -1,3 +1,11 @@
+---
+sponsor: "Covalent"
+slug: "2021-10-covalent"
+date: "2021-11-19"
+title: "Covalent contest"
+findings: "https://github.com/code-423n4/2021-10-covalent-findings/issues"
+contest: 43
+---
 
 # Overview
 
